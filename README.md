@@ -4,4 +4,4 @@
 
 ## 下载地址
 
-[点我下载](https://github.com/CrazyZhang666/GTA5OnlineTools/releases/download/update/GTA5onlineTools.exe)  
+[下载最新版本](https://github.com/CrazyZhang666/GTA5OnlineTools/releases/download/update/GTA5onlineTools.exe)  
