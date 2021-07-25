@@ -2,6 +2,8 @@
 
 一个完全免费的GTA5线上模式辅助工具
 
+<img src="https://p6-tt.byteimg.com/origin/pgc-image/2b10b4cbcaf24b69816d04e2ea71fb5c.png"/>
+
 ## 最新版本
 
 [版本发布](https://github.com/CrazyZhang666/GTA5OnlineTools/releases)  
@@ -16,8 +18,7 @@
 
 ## 截图预览
 
-<img src="https://p9-tt.byteimg.com/origin/pgc-image/e045995f6c794c969f84e43f90987402.png"/>
-<img src="https://p5-tt.byteimg.com/origin/pgc-image/4b00aac0c35945149d5fce0d9f436a3d.png"/>
-<img src="https://p3-tt.byteimg.com/origin/pgc-image/179887ecce0d4900a5c2ecbb1e592f12.png"/>
-<img src="https://p6-tt.byteimg.com/origin/pgc-image/f394463d60e74f8da0218d7d23a73aa5.png"/>
-<img src="https://p26-tt.byteimg.com/origin/pgc-image/00cddfcc3a96465f9c1b3f4d954d19ba.png"/>
+<img src="https://p5-tt.byteimg.com/origin/pgc-image/a87bc4e23172449ebf81c0283cab3523.png"/>
+<img src="https://p26-tt.byteimg.com/origin/pgc-image/a05050ac0c6c405d9814b297b79d59b0.png"/>
+<img src="https://p6-tt.byteimg.com/origin/pgc-image/e933ea9069e340db98ff2e1989ac4713.png"/>
+<img src="https://p6-tt.byteimg.com/origin/pgc-image/19dc0e353b674087b68228f5ec8fcca5.png"/>
