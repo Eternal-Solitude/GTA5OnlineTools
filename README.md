@@ -2,10 +2,9 @@
 
 一个完全免费的GTA5线上模式辅助工具
 
-
 ## 最新版本
 
-[😀下载地址😀](https://github.com/CrazyZhang666/GTA5OnlineTools/releases)  
+[版本发布](https://github.com/CrazyZhang666/GTA5OnlineTools/releases)  
 
 [下载地址 A](https://github.com/CrazyZhang666/GTA5OnlineTools/releases/download/update/GTA5onlineTools.exe)  
 [下载地址 B](https://raw.githubusercontent.com/CrazyZhang666/GTA5OnlineTools/master/Server/GTA5onlineTools.exe) 
