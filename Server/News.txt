@@ -1,4 +1,4 @@
-2021/07/25 15:25 公告内容更新
+2021/07/28 18:25 公告内容更新
 ----------------
 强烈建议大家耐心看完下面信息
 
@@ -16,7 +16,7 @@ https://github.com/CrazyZhang666/GTA5OnlineTools/issues
 【使用帮助】
 ----------------
 GTA5线上小助手 详细使用教程（强烈建议查看，不定时更新）
-https://www.yuque.com/crazyzhang666/docs
+https://crazyzhang.cn/categories/gta5
 
 【打开最新版本小助手停止运行的解决办法】
 ----------------
