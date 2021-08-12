@@ -6,4 +6,4 @@
 
 [版本发布地址](https://github.com/CrazyZhang666/GTA5OnlineTools/releases)  
 
-![](https://cdn.jsdelivr.net/gh/CrazyZhang666/BlogImages/Images/Hexo/202108111825629.png)
+![](https://cdn.jsdelivr.net/gh/CrazyZhang666/BlogImages/Images/Hexo/202108121352799.png)
