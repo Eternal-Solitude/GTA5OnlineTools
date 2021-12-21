@@ -16,7 +16,7 @@ https://discord.com/
 
 【Github加速】
 ----------------
-推荐使用Steam++和FastGithub免费加速访问Github网站
+推荐使用Steam++或FastGithub免费加速访问Github
 https://steampp.net/
 https://github.com/dotnetcore/FastGithub/releases
 
