@@ -16,4 +16,4 @@ https://github.com/dotnetcore/FastGithub/releases
 
 [版本发布地址](https://github.com/CrazyZhang666/GTA5OnlineTools/releases)  
 
-![](https://cdn.jsdelivr.net/gh/CrazyZhang666/BlogImages/Images/Hexo/202112201745020.png)
+![](https://cdn.jsdelivr.net/gh/CrazyZhang666/BlogImages/Images/Hexo/202112211813075.png)
