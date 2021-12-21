@@ -1,4 +1,4 @@
-2021/12/17 18:30 公告内容更新
+2021/12/21 18:30 公告内容更新
 ----------------
 强烈建议大家耐心看完下面信息
 
@@ -10,9 +10,15 @@ https://blog.crazyzhang.cn/
 
 【Discord加速】
 ----------------
-推荐使用Steam++免费加速访问Discord和Github等网站
+推荐使用Steam++免费加速访问Discord
 https://steampp.net/
 https://discord.com/
+
+【Github加速】
+----------------
+推荐使用Steam++和FastGithub免费加速访问Github网站
+https://steampp.net/
+https://github.com/dotnetcore/FastGithub/releases
 
 【网站文章】
 ----------------
@@ -40,4 +46,5 @@ https://crazyzhang.cn/categories/gta5
 【停止运行】
 ----------------
 下载安装.NET Framework 4.8运行库
+（如果电脑上安装有微星小飞机显示FPS程序的玩家，请在打开小助手前关闭小飞机程序）
 https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer
